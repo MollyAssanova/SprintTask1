@@ -1,0 +1,44 @@
+.text{
+    margin-left: 20px;
+}
+.box{
+    width: 400px;
+}
+.latest{
+    text-align: center;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.divka{
+    background-color:#577f8c;
+     margin-top: 10px;
+    padding: 50px;
+    color: white;
+    height: 200px;
+}
+.divka2{
+    width: 25%;
+    border: 1px solid lightgrey;
+}
+.head{
+    background-color: #862d2d;
+    min-height: 50px;
+}
+.a{
+    display: flex;
+    color: rgba(255, 255, 255, 0.368);
+    padding: 20px;
+}
+button{
+    color:white;
+    background-color: #bd2f2f;
+    padding: 10px 20px 10px 20px;
+    border: 0px;
+}
+.d{
+    width: 25%;
+    border: 1px solid lightgrey;
+    margin-left: 10px;
+}
